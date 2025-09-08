@@ -18,6 +18,7 @@ Before running MapReduce, HDFS and YARN daemons were started:
 Command used:
 start-dfs.sh
 start-yarn.sh
+jps
 
 2. Load Data into HDFS - Created an /input directory in HDFS and uploaded the JSON file.
 Command used:
