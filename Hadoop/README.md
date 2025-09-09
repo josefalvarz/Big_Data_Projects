@@ -11,7 +11,7 @@ Folder Structure
 - README.md - Documentation of the Hadoop workflow.  
 
 
-Workflow
+Workflow in Hadoop
 
 1. Start Hadoop Daemons
 Before running MapReduce, HDFS and YARN daemons were started:
