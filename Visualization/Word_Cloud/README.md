@@ -5,14 +5,14 @@ We also created focused word clouds for the technology subreddit, since the anal
 This allowed us to explore which aspects were most frequently mentioned in both neutral and negative discussions to have a clear perpective what the origin of negative comments are.
 
 
-1. Positive Sentiment
+1. Positive Sentiment (All subreddits)
 - Common words: tesla, car, stock, market, company, new, vehicle.  
 - Focus on growth, innovation, and investments.
 
 
-2. Negative Sentiment
+2. Negative Sentiment (All subreddits)
 - Common words: tesla, market, us, company, tariffs, stock, ev, sales.  
-- Strong presence of criticism toward market trends and external policies.
+- Eventhough market was trending for positive sentiment it also has negative impact due to tariffs.
 
 
 3. Neutral (Technology Subreddit)
@@ -27,5 +27,5 @@ This allowed us to explore which aspects were most frequently mentioned in both 
 
 Conclusion
 - The technology subreddit is the most active but also the most critical.  
-- Word clouds reveal that positive sentiment is tied to growth and innovation, while negative sentiment revolves around quality, sales, and policy issues.  
+- Word clouds reveal that positive sentiment is tied to growth and innovation, while negative sentiment revolves around quality, sales and policy issues 
 
