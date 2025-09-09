@@ -61,4 +61,4 @@ for line in sys.stdin:
         print(f"{post_id}\t{author}\t{created_utc}\t{subreddit}\t{score}\t{num_comments}\t{cleaned}")
 
     except Exception as e:
-        continue  # Or log to stderr if needed: print(f"Error: {e}", file=sys.stderr)
+        continue 
