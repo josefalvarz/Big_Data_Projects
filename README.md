@@ -8,22 +8,22 @@ For our project, we developed a Tesla Sentiment Analysis to explore what Tesla�
 Project Structure
 Hadoop
 
-This folder documents all the work done to process and clean the data.
+-This folder documents all the work done to process and clean the data.
 (Specific aspects are detailed in this folder’s README.)
 
 Visualization
 
 This folder contains all the visualization materials used to explain our analysis.
 
-Graphs were created in Tableau.
+-Graphs were created in Tableau.
 
-Word Clouds were generated in Python using VADER.
+-Word Clouds were generated in Python using VADER.
 (More details are provided in the folder’s README.)
 
 Other Files
 
-This section includes the code used to:
+-This section includes the code used to:
 
-Fetch the data from Reddit.
+-Fetch the data from Reddit.
 
 Clean the data (e.g., separating each field by commas).
