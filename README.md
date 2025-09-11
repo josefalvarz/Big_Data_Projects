@@ -6,4 +6,4 @@ This project contains two subfolders:
 
 Hadoop - This folder documentates all the work donde to process and clean the data, (more specific aspects are mention inside this folder's READme).
 Visualization - This folders contains all the visualization material that we used to explain our analysis, Graphs were made in Tableau and Word Clouds on Python/VADER. More information inside the folder.
-Other files - This files are the code that we used to fetch the data from Reddit, 
+Other files - This files are the code that we used to fetch the data from Reddit and code that we used to clean the data, for example separate each field by commas.
