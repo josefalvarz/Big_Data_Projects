@@ -1,9 +1,29 @@
-This repository contatains the final examination for the Bg Data & Analytics class in which I served as the leader of my group. 
-My team and I are proud to have provided one of the best analyses across all sections of the Big Data class at our University.
-As a group, we decided to develop a Tesla sentiment analysis to find out what Tesla's audience is talking about the most.
+Big Data & Analytics – Final Examination Project
 
-This project contains two subfolders:
+This repository contains the final examination project for the Big Data & Analytics class, in which I served as the leader of my group.
+My team and I are proud to have delivered one of the best analyses across all sections of the course at our university.
 
-Hadoop - This folder documentates all the work donde to process and clean the data, (more specific aspects are mention inside this folder's READme).
-Visualization - This folders contains all the visualization material that we used to explain our analysis, Graphs were made in Tableau and Word Clouds on Python/VADER. More information inside the folder.
-Other files - This files are the code that we used to fetch the data from Reddit and code that we used to clean the data, for example separate each field by commas.
+For our project, we developed a Tesla Sentiment Analysis to explore what Tesla’s audience discusses most frequently.
+
+Project Structure
+Hadoop
+
+This folder documents all the work done to process and clean the data.
+(Specific aspects are detailed in this folder’s README.)
+
+Visualization
+
+This folder contains all the visualization materials used to explain our analysis.
+
+Graphs were created in Tableau.
+
+Word Clouds were generated in Python using VADER.
+(More details are provided in the folder’s README.)
+
+Other Files
+
+This section includes the code used to:
+
+Fetch the data from Reddit.
+
+Clean the data (e.g., separating each field by commas).
