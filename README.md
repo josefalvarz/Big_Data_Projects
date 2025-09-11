@@ -1,4 +1,4 @@
-Big Data & Analytics – Final Examination Project
+Big Data & Analytics  Final Examination Project
 
 This repository contains the final examination project for the Big Data & Analytics class, in which I served as the leader of my group.
 My team and I are proud to have delivered one of the best analyses across all sections of the course at our university.
